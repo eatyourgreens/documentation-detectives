@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      SITE_ROOT: '/transcription-explorer'
+      SITE_ROOT: '/documentation-detectives'
     steps:
       - uses: actions/checkout@v4
 
