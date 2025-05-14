@@ -32,7 +32,7 @@ Output: (object) {
   meta: (object) contains .count (total items available) and .page_count (total pages available)
 }
  */
-async function fetchSubjectsByPage(query, page = 1, pageSize = 100) {
+async function fetchSubjectsByPage(query, page = 1, pageSize = 20) {
   try {
     const { subjects, meta } = await fetchWithRetry("/subjects", {
       ...query,
