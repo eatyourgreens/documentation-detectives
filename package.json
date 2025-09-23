@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@zooniverse/panoptes-js": "^0.5.2",
+    "@zooniverse/panoptes-js": "^0.6.0",
     "esbuild": "^0.25.10",
     "graphql": "^16.11.0",
     "graphql-request": "^7.2.0"
