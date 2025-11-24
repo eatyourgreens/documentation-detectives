@@ -14,7 +14,7 @@ jobs:
     env:
       SITE_ROOT: '/documentation-detectives'
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: Setup Node
         env:
