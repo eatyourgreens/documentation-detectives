@@ -10,7 +10,7 @@
   "author": "Jim O'Donnell",
   "license": "Apache-2.0",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy": "^3.1.6",
     "@zooniverse/panoptes-js": "^0.6.0",
     "esbuild": "^0.28.0",
     "graphql": "^16.14.0",
