@@ -12,7 +12,7 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.5",
     "@zooniverse/panoptes-js": "^0.6.0",
-    "esbuild": "^0.28.1",
+    "esbuild": "^0.28.2",
     "graphql": "^16.14.2",
     "graphql-request": "^7.4.0"
   }
